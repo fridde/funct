@@ -1,15 +1,15 @@
 {
     "name": "fridde/funct",
     "description": "Commonly used code blocks, a fork of funct/funct",
+    "license": "MIT",
     "authors": [
         {
             "name": "fridde",
             "email": "f@hehl.se"
         }
     ],
-    "license": "MIT",
     "autoload": {
-        "psr-4": { "Fridde\\": "src/" },
+        "psr-4": { "Fridde\\": "src/" }
     },
     "minimum-stability": "dev"
 }
