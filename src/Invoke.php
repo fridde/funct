@@ -1,8 +1,8 @@
 <?php
 
-namespace Funct\Invoke;
+namespace Fridde\Invoke;
 
-use Funct;
+use Fridde;
 use ArrayAccess;
 
 /**
@@ -56,5 +56,5 @@ function ifIsset(callable $callable, $values, $key)
  */
 function ifNotEmpty(callable $callable, $var)
 {
-    return ifCondition($callable, [$var], Funct\notEmpty($var));
+    return ifCondition($callable, [$var], Fridde\notEmpty($var));
 }

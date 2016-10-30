@@ -1,6 +1,6 @@
 <?php
 
-namespace Funct\Object;
+namespace Fridde\Object;
 
 use Traversable;
 

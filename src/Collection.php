@@ -1,6 +1,6 @@
 <?php
 
-namespace Funct\Collection;
+namespace Fridde\Collection;
 
 use Traversable;
 

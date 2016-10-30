@@ -1,6 +1,6 @@
 <?php
 
-namespace Funct\Strings;
+namespace Fridde\Strings;
 
 /**
  * Extracts the string between two substrings
